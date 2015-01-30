@@ -1,1 +1,2 @@
-add_lunch_combo cm_yuga-eng
+add_lunch_combo aicp_yuga-userdebug
+add_lunch_combo aicp_yuga-eng

@@ -24,7 +24,7 @@
 
 TARGET_SCREEN_HEIGHT := 1920
 TARGET_SCREEN_WIDTH := 1080
- 
+
 # Torch
 PRODUCT_PACKAGES := \
     Torch
@@ -39,7 +39,7 @@ $(call inherit-product, device/sony/common/resources.mk)
 $(call inherit-product, device/sony/yuga/yuga.mk)
 
 # Set those variables here to overwrite the inherited values.
-PRODUCT_NAME := full_yuga
+PRODUCT_NAME := aicp_yuga
 PRODUCT_DEVICE := yuga
 PRODUCT_BRAND := Sony
 PRODUCT_MANUFACTURER := Sony
